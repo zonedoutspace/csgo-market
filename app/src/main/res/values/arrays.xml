@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weapons">
+        <item>Frontpage</item>
+        <item>Pistols</item>
+        <item>Rifles</item>
+        <item>SMGs</item>
+        <item>Heavy</item>
+        <item>Knives</item>
+        <item>Cases</item>
+        <item>Collections</item>
+        <item>Stickers</item>
+    </string-array>
+</resources>

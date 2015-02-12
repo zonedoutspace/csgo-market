@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2014 Heinrich Reimer
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+      http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <item type="id" name="mdDrawer" />
+
+    <item type="id" name="mdScrollView" />
+
+    <item type="id" name="mdLayout" />
+
+    <item type="id" name="mdLayoutProfile" />
+    <item type="id" name="mdLayoutProfileContent" />
+    <item type="id" name="mdAvatarProfile" />
+    <item type="id" name="mdBackgroundProfile" />
+    <item type="id" name="mdNameProfile" />
+    <item type="id" name="mdDescriptionProfile" />
+
+    <item type="id" name="mdLinearListView" />
+
+    <item type="id" name="mdFixedListContainer" />
+    <item type="id" name="mdLinearListViewFixed" />
+
+    <item type="id" name="mdRoot" />
+    <item type="id" name="mdImage" />
+    <item type="id" name="mdTextRoot" />
+    <item type="id" name="mdTextPrimary" />
+    <item type="id" name="mdTextSecondary" />
+
+    <item type="id" name="mdHeaderRoot" />
+    <item type="id" name="mdDivider" />
+    <item type="id" name="mdHeaderTitleRoot" />
+    <item type="id" name="mdHeaderTitle" />
+</resources>

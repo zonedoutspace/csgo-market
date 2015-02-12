@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9254aef1daa91298aebffdb39258422c5fa7024f.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/classes-6fad87c122f871c50361cb0ec510a9d99d46f350.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-26bd6016951d611170c08f0f2a599dc323ecf3f0.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/it.neokree/MaterialNavigationDrawer/1.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a890d6032914dc0df161bc6a91b7b72399e280c">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/classes-dffc7f0f75b148ca6f720062dd98cbe1d3b03c02.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/classes-eaef9ffbe361b9fb46a53f845e8fc94120a9a7ea.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/com.github.markushi/android-ui/1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/classes-7e613b88214387618436bcf8662a83f5adf09866.jar" />
+    </item>
+    <item
+        jar="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/p3ter/Dropbox/Development/CS GO Items App for Android/CSGOMarket/app/build/intermediates/pre-dexed/debug/classes-b7fd5d4103e2c51b40d35f34cf30b0d0efdd8980.jar" />
+    </item>
+
+</items>
